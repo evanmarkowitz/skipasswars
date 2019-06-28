@@ -1,0 +1,16 @@
+
+.mtn-by-pass {
+  box-sizing: border-box;
+  padding: 25px;
+  text-align: center;
+  width: 100%;
+  color: #606060;
+  & p:hover {
+    color: #4dd0e1;
+    transform: scale(1.1); 
+    font-weight: bold;
+  }
+}
+.logo {
+  height: 100px;
+}
